@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "myamplifyprojectdc138e89": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
